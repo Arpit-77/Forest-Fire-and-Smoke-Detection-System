@@ -12,3 +12,6 @@ Forests are the protectors of earth’s ecological balance. Unfortunately, the f
 ![image](https://github.com/Arpit-77/Forest-Fire-and-Smoke-Detection-System/assets/139072905/3d289538-80cb-41f7-8e85-525a1943bcbb)
 
 ![image](https://github.com/Arpit-77/Forest-Fire-and-Smoke-Detection-System/assets/139072905/cb8aa82b-8c74-4841-b962-a571fcef6e71)
+
+
+The code can be found [here](Code.py)
